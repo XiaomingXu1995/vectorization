@@ -1,0 +1,5 @@
+create by xxm 2018/11/7 16:07
+the save_char.c is to implement the int_8 array converting into int_32 array and reverse the sort of the element of the array.
+
+you can compile the file save_char.c by using : icc save_char.c 
+and run the program by: ./a.out
