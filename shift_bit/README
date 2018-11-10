@@ -1,0 +1,10 @@
+
+Created by xxm on 2018/11/10 16:19
+
+The shift bit is to implement the shiftbit with derection of left and right.
+The 3 different file is to 512 bit and 256 bit, the shift_right is easy to implement by using the library function in Intel Intrinsic Guide.
+But the shift_left of 256 bit need to be done by the shift_right func in the library.
+So the mvbit_256_left.c is worth learning. 
+Come on! 
+
+
